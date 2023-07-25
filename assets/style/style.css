@@ -1,0 +1,11 @@
+
+/* Este es un selector de etiqueta */
+body {
+    background-image: url("../img/papelpintado.jpeg");
+    font-family: sans-serif;
+}
+
+h1 {
+    color:rgb(54, 154, 121);
+    text-align: center;
+}
